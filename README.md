@@ -1,6 +1,12 @@
 # amazonq
 Amazon Q Developer config
 
+## Links
+
+[Advanced Development with Amazon Q Developer](https://catalog.workshops.aws/qadvanced/en-US)
+contains advanced information on how to use Amazon Q Developer and a
+description of Spec-Driven Development
+
 ## Files
 
 * [CLI agents directory](cli-agents/): Contains global agents
