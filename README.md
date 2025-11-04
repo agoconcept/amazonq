@@ -7,6 +7,9 @@ Amazon Q Developer config
 contains advanced information on how to use Amazon Q Developer and a
 description of Spec-Driven Development
 
+[Using Amazon Q Developer from the CLI](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/command-line.html)
+contains main documentation about Amazon Q CLI about Amazon Q CLI
+
 ## Files
 
 * [CLI agents directory](cli-agents/): Contains global agents
