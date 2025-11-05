@@ -14,5 +14,6 @@ contains main documentation about Amazon Q CLI about Amazon Q CLI
 
 * [CLI agents directory](cli-agents/): Contains global agents
   - These files must be copied or linked under ~/.aws/amazonq/cli-agents/
-* TODO: add spec-method.md: For Spec-Driven Development
+* [spec-method.md](spec-method.md):
+  - Markdown file describing Spec-Driven Development
 
